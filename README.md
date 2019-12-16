@@ -45,13 +45,13 @@ Consignes respectées :
     Nom de la carte en titre (Button pour aller a la description de la carte)
    
     Ecran du détail de la carte: 
-    <img src="img/detail.jpg" >
+    <img src="img/" >
 				
-				utilisation de la CoordianteLayout (quand on fait le scroll en haut l'image se dessparatre et se remplace par une ToolBar)
-				une Image sur de la place 
-				une card pour la description de la place 
-				une autre card pour l'historique de la place
-				et une autre pour les activitè
+               utilisation de la CoordianteLayout (quand on fait le scroll en haut l'image se dessparatre et se remplace par 		     une ToolBar)
+		une Image sur de la place 
+		une card pour la description de la place 
+		une autre card pour l'historique de la place
+		 et une autre pour les activitè
 				
 		A faire pour plutard :
 		
