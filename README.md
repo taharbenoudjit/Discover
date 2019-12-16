@@ -36,7 +36,7 @@ Consignes respectées :
 		Premier écran:
 		
 		SplashScreen affichant une image.
-		<img src="<img src="https://github.com/KrisKasprzak/ILI9341_t3_controls">
+		
 		
 	Fragment Home:
 	
@@ -60,4 +60,5 @@ Consignes respectées :
 		ajoute l'avtivity de favoris
 		ajoute une activitè pour le login/logout 
 		
+	** vous pouvez trouver les screen sur le dossier screen
 		
