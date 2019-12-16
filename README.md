@@ -44,7 +44,7 @@ Consignes respectées :
     Image de la carte
     Nom de la carte en titre (Button pour aller a la description de la carte)
    
-    Ecran du détail de la carte: <img src="img/detail.jpg >
+    Ecran du détail de la carte: <img src="img/detail.jpg" >
 				
 				utilisation de la CoordianteLayout (quand on fait le scroll en haut l'image se dessparatre et se remplace par une ToolBar)
 				une Image sur de la place 
