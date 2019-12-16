@@ -1,4 +1,4 @@
-package com.example.discover;
+package com.example.discover.activities;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,7 +11,11 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.recyclerview.widget.LinearLayoutManager;
+
+import com.example.discover.model.Controller;
+import com.example.discover.adapters.MyAdapter;
+import com.example.discover.model.Post;
+import com.example.discover.R;
 
 import java.util.List;
 
@@ -48,7 +52,7 @@ public class HomeFragment extends Fragment {
         return view;
     }
 
-    public void showList(List< Post> changesList) {
+    public void showList(List< Post > changesList) {
 
         layoutmanager = new GridLayoutManager(getContext(),2);
         recyclerView.setLayoutManager(layoutmanager);

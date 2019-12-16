@@ -1,4 +1,4 @@
-package com.example.discover;
+package com.example.discover.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,12 +9,16 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.discover.model.Post;
+import com.example.discover.R;
+import com.example.discover.activities.Description;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
-    private List <Post> values;
+    private List < Post > values;
 
     // Provide a reference to the views for each data item
     // Complex data items may need more than one view per item, and

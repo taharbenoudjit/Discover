@@ -1,4 +1,4 @@
-package com.example.discover;
+package com.example.discover.model;
 
 public class Post {
     private String name;

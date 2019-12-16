@@ -1,4 +1,4 @@
-package com.example.discover;
+package com.example.discover.activities;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -15,6 +15,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.discover.R;
 import com.squareup.picasso.Picasso;
 
 
