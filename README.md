@@ -36,6 +36,7 @@ Consignes respectées :
 		Premier écran:
 		
 		SplashScreen affichant une image.
+		<img src="<img src="https://github.com/KrisKasprzak/ILI9341_t3_controls">
 		
 	Fragment Home:
 	
